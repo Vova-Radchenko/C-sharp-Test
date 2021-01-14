@@ -7,6 +7,8 @@ namespace Test_project_for_github
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            int i = 0;
+            Console.WriteLine(i);
         }
     }
 }
